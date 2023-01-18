@@ -1,0 +1,1 @@
+var maham = "hello pakistan "
